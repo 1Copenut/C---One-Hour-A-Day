@@ -2,7 +2,8 @@
 #include <iostream>
 
 // Start of your program
-int main() {
+int main()
+{
 	// Tell the compiler what namespace to search in
 	using namespace std;
 	
