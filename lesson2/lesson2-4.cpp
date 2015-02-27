@@ -20,6 +20,8 @@ int DemoConsoleOutput()
 	cout << "Performing division 10 / 5 = " << 10 / 5 << endl;
 	cout << "Pi when approximated is 22 / 7 = " << 22 / 7 << endl;
 	cout << "Pi more accurately is 22 / 7 = " << 22.0 / 7 << endl;
+	cout << "Performing subtraction 10 - 5 = " << 10 - 5 << endl;
+	cout << "Performing multiplication 10 * 5 = " << 10 * 5 << endl;
 	
 	return 0;
 }
