@@ -13,9 +13,9 @@ int main()
 {
     cout << "Displaying directiosn and their symbolic values" << endl;
     cout << "North: " << North << endl;
-    cout << "South" << South << endl;
+    cout << "South: " << South << endl;
     cout << "East: " << East << endl;
-    cout << "West" << West << endl;
+    cout << "West: " << West << endl;
 
     CardinalDirections WindDirection = South;
     cout << "Variable WindDirection = " << WindDirection << endl;
