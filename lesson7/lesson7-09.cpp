@@ -19,5 +19,5 @@ int main()
     Area(Radius, AreaFetched);
 
     cout << "The area is: " << AreaFetched << endl;
-    return 0
+    return 0;
 }
